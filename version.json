@@ -1,5 +1,5 @@
 {
-    "Version":  "1.1.29.0",
-    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.1.29.0/bim-helper.zip",
-    "ReleaseNotes":  "• Служебное обновление: проверка автообновления"
+    "Version":  "1.1.30.0",
+    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.1.30.0/bim-helper.zip",
+    "ReleaseNotes":  "• Отделка: подробный журнал и понятные итоги\n• «Номер помещения» точнее находит помещение\n• Элементы в группах больше не прерывают запуск"
 }
