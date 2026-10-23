@@ -1,5 +1,5 @@
 {
-    "Version":  "1.1.27.0",
-    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.1.27.0/bim-helper.zip",
-    "ReleaseNotes":  "• После обновления видно, что нового в версии\n• Обновления надёжнее скачиваются на медленной сети"
+    "Version":  "1.1.28.0",
+    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.1.28.0/bim-helper.zip",
+    "ReleaseNotes":  "• Обновление ставится, когда закрыты все Revit\n• Новое окно установки обновления"
 }
