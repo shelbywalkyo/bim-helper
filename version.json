@@ -1,5 +1,5 @@
 {
-    "Version":  "1.1.31.0",
-    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.1.31.0/bim-helper.zip",
-    "ReleaseNotes":  "• Обновления проверяются каждые 5 минут\n• Ставится самая свежая скачанная версия\n• Видно, если обновление ждёт закрытия Revit"
+    "Version":  "1.1.32.0",
+    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.1.32.0/bim-helper.zip",
+    "ReleaseNotes":  "• Отделка стен точнее: углы, ниши, пилястры\n• Пол и потолок — строго по границе помещения\n• Пол можно завести в дверные проёмы"
 }
