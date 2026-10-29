@@ -1,5 +1,5 @@
 {
-    "Version":  "1.1.32.0",
-    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.1.32.0/bim-helper.zip",
-    "ReleaseNotes":  "• Отделка стен точнее: углы, ниши, пилястры\n• Пол и потолок — строго по границе помещения\n• Пол можно завести в дверные проёмы"
+    "Version":  "1.1.33.0",
+    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.1.33.0/bim-helper.zip",
+    "ReleaseNotes":  "• Служебный выпуск: проверка автообновления\n• В инструментах изменений нет"
 }
