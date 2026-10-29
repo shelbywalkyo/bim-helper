@@ -1,5 +1,5 @@
 {
-    "Version":  "1.1.33.0",
-    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.1.33.0/bim-helper.zip",
-    "ReleaseNotes":  "• Служебный выпуск: проверка автообновления\n• В инструментах изменений нет"
+    "Version":  "1.1.34.0",
+    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.1.34.0/bim-helper.zip",
+    "ReleaseNotes":  "• Отделка: исправлены «Обновить» и потолки\n• Отделка: замечания в отчёте, подсветка строк\n• Поддержка: видна версия Revit и плагина"
 }
