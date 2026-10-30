@@ -1,5 +1,5 @@
 {
-    "Version":  "1.2.0.0",
-    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.2.0.0/bim-helper.zip",
-    "ReleaseNotes":  "• Обновлён вид окон: чётче текст, новые значки\n• Новые окна ведомости, номера и списка помещений\n• Экспорт листов: настройки запоминаются"
+    "Version":  "1.2.1.0",
+    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.2.1.0/bim-helper.zip",
+    "ReleaseNotes":  "• Обновление ставится в каждый Revit отдельно\n• Пол: «От уровня» теперь считается от низа пола\n• Исправления экспорта листов, потолков, очистки"
 }
