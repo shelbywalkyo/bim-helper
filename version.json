@@ -1,5 +1,5 @@
 {
-    "Version":  "1.5.1.0",
-    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.5.1.0/bim-helper.zip",
-    "ReleaseNotes":  "• Новое: «Параметры изоляции» — сверка и заполнение\n• Вкладка «ОВ» переименована в «ИОС»\n• «Эскизы арматуры»: IFC-лягушки и ровный текст"
+    "Version":  "1.5.2.0",
+    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.5.2.0/bim-helper.zip",
+    "ReleaseNotes":  "• «Параметры изоляции» — сверка и заполнение\n• «Эскизы арматуры»: IFC-лягушки, выверенные размеры\n• Вкладка «ОВ» → «ИОС»"
 }
