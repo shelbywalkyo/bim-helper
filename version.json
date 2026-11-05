@@ -1,5 +1,5 @@
 {
-    "Version":  "1.3.0.0",
-    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.3.0.0/bim-helper.zip",
-    "ReleaseNotes":  "• «Эскизы арматуры»: эскизы стержней в ведомость деталей\n• Новые инструменты: «ВРС» и «Разрез на лист»\n• Экспорт листов: пустая папка — в «Документы»"
+    "Version":  "1.4.0.0",
+    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.4.0.0/bim-helper.zip",
+    "ReleaseNotes":  "• Новое: «Пересечения» — поиск коллизий внутри Revit\n• Новое: «Ведомость спецификаций» — заполнить по листам\n• «Эскизы арматуры»: новая иконка"
 }
