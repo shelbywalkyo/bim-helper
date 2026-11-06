@@ -1,5 +1,5 @@
 {
-    "Version":  "1.5.4.0",
-    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.5.4.0/bim-helper.zip",
-    "ReleaseNotes":  "• ВРС: скрытие нулей — только графы массы\n• ВРС: округление не краснеет из-за служебных граф"
+    "Version":  "1.6.0.0",
+    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.6.0.0/bim-helper.zip",
+    "ReleaseNotes":  "• Помещения в пространства — новый инструмент ИОС\n• Ведомость спецификаций: виджет по разделам\n• Панель «Отделка» переименована в «АР»"
 }
