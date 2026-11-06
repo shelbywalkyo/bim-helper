@@ -1,5 +1,5 @@
 {
-    "Version":  "1.5.2.0",
-    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.5.2.0/bim-helper.zip",
-    "ReleaseNotes":  "• «Параметры изоляции» — сверка и заполнение\n• «Эскизы арматуры»: IFC-лягушки, выверенные размеры\n• Вкладка «ОВ» → «ИОС»"
+    "Version":  "1.5.4.0",
+    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.5.4.0/bim-helper.zip",
+    "ReleaseNotes":  "• ВРС: скрытие нулей — только графы массы\n• ВРС: округление не краснеет из-за служебных граф"
 }
