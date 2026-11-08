@@ -1,5 +1,5 @@
 {
-    "Version":  "1.6.0.0",
-    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.6.0.0/bim-helper.zip",
-    "ReleaseNotes":  "• Помещения в пространства — новый инструмент ИОС\n• Ведомость спецификаций: виджет по разделам\n• Панель «Отделка» переименована в «АР»"
+    "Version":  "1.6.1.0",
+    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.6.1.0/bim-helper.zip",
+    "ReleaseNotes":  "• Пересечения: вкладка «Дубликаты» с удалением\n• Ведомость спецификаций: заполняет за секунды\n• «Пересечения» перенесены на панель «BIM»"
 }
