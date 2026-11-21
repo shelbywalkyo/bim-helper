@@ -1,5 +1,5 @@
 {
-    "Version":  "1.6.5.0",
-    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.6.5.0/bim-helper.zip",
-    "ReleaseNotes":  "• Новый инструмент — «Квартирография»"
+  "Version": "1.6.6.0",
+  "DownloadUrl": "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.6.6.0/bim-helper.zip",
+  "ReleaseNotes": "• Новые инструменты АР — «Плинтусы» и «Проёмы».\n• RVT «Для передачи» открывается без диалога.\n• Обновлена лента bim-helper."
 }
