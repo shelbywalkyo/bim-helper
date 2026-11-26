@@ -1,5 +1,5 @@
 {
-  "Version": "1.6.6.0",
-  "DownloadUrl": "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.6.6.0/bim-helper.zip",
-  "ReleaseNotes": "• АР — «Расчёт плинтусов» и «Расчет проёмов».\n• RVT «Для передачи» открывается без диалога.\n• Обновлена лента bim-helper."
+    "Version":  "1.6.7.0",
+    "DownloadUrl":  "https://github.com/shelbywalkyo/bim-helper/releases/download/v1.6.7.0/bim-helper.zip",
+    "ReleaseNotes":  "• Толщина стенки: цепочка фитингов — по большей.\n• Толщина стенки: EI — класс B, стенка от 0.9.\n• Новая подпись: в Revit нажмите «Всегда загружать»."
 }
